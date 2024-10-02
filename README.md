@@ -1,4 +1,4 @@
-# Create Student Managemnt System
+# Create Student Management System
 
 To handle student data more efficiently
 
